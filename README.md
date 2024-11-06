@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Derek Grubbs</h1>
+<h1 align="center">Hi 👋, I'm Derek Ferguson</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
+
+<p>My name is Derek Ferguson! I am a graduate from BloomTech's Full Stack Web Development course. I have a passion for all things tech and I love coding, building PC's, and gaming!</p>
 
 - 🌱 I’m currently learning **Full-stack Web Development at BloomTech**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Redux, Express.JS, HTML, CSS, SQLite and more!**
 
 - 📫 How to reach me **derekgrubbs29@gmail.com**
 
